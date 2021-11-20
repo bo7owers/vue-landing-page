@@ -1,12 +1,12 @@
 <template>
   <div class="h1-wrapper">
-    <div id="welcome">Bienvenue, welcomes you to this new experience</div>
+    <div id="welcome">Bienvenidx a une experiencia maravillosa</div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "Bienvenue",
+  name: "Bienvenido",
 };
 </script>
 

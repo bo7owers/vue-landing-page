@@ -1,7 +1,8 @@
 <template>
   <div class="nav-flex">
     <router-link to="/">Home</router-link>
-    <router-link to="/Bienvenue">Bienvenue</router-link>
+    <router-link to="/bienvenue">Bienvenue</router-link>
+    <router-link to="/bienvenido">Bienvenido</router-link>
   </div>
   <router-view />
 </template>
