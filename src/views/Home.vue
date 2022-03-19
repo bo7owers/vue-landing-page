@@ -53,4 +53,14 @@
 		justify-content: center;
 		align-items: center;
 	}
+	.point-modal {
+		background: #9ae08c;
+		color: #000;
+		border-color: #9ae08c;
+	}
+	.point-modal:hover {
+		background: #65925c !important;
+		color: #000 !important;
+		border-color: #65925c !important;
+	}
 </style>
